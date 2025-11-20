@@ -13,8 +13,15 @@
 <img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
 ###
-
-<p align="left">📚 I'm currently persuing M.TECH from IIT Patna In Artificial Intelligence and Data Science Engineering (AI/DSE), 2026 <br>🔭 I’m currently working on Full Stack Projects | MERN Stack | AI & ML Projects<br>🌱 I’m currently learning Machine Learning and DSA In Python<br>👯 I’m looking to collaborate on any Full Stack Developed Projects<br>🤔 I’m looking for help with Fellow Developers.<br>💬 Ask me about Tech, Javascript, Python, DSA, MERN, AI & ML<br>📫 How to reach me: https://www.linkedin.com/in/theverma/<br>😄 Pronouns: he/him<br>⚡ Fun fact: I'm good at adding humour and interest in learning new tech stack.</p>
+  - 📚 I'm currently pursuing **M.TECH from IIT Patna In AI/DSE, 2026** 
+  - 🔭 I’m currently working on **Full Stack Projects | MERN Stack | AI & ML Projects**
+  - 🌱 I’m currently learning **Machine Learning and DSA In Python**
+  - 👯 I’m looking to collaborate on any **Full Stack Projects**
+  - 🤔 I’m looking for help with **Fellow Developers**
+  - 💬 Ask me about **Tech, Javascript, Python, DSA, MERN, AI & ML**
+  - 📫 How to reach me:  **https://www.linkedin.com/in/theverma/**
+  - 😄 Pronouns: **he/him**
+  - ⚡ Fun fact: **I'm good at adding humour and interest in learning new tech stack.**
 
 ### 
 
