@@ -1,8 +1,8 @@
-<h1 align="center">Hi👋, I'm Prakash Verma</h1>
+<h1 align="center">Hi👋, I'm Prakash Kumar Verma</h1>
 
 ###
 
-<p align="center">A passionate developer from India</p>
+<h3 align="center">A passionate developer from India</h3>
 
 ###
 
@@ -14,7 +14,26 @@
 
 ###
 
-<p align="left">📚 I'm currently persuing M.TECH from IIT Patna In AI & DSE<br>🔭 I’m currently working on Full Stack Projects | MERN Stack | AI & ML Projects<br>🌱 I’m currently learning Machine Learning and DSA In Python<br>👯 I’m looking to collaborate on any Full Stack Developed Project<br>🤔 I’m looking for help with Fellow Developers.<br>💬 Ask me about Tech, Javascript, Python, DSA, MERN, AI & ML<br>📫 How to reach me: https://www.linkedin.com/in/theverma/<br>😄 Pronouns: he/him<br>⚡ Fun fact: I am good at adding humour and interest in learning any tech stack!</p>
+<p align="left">📚 I'm currently persuing M.TECH from IIT Patna In Artificial Intelligence and Data Science Engineering (AI/DSE), 2026 <br>🔭 I’m currently working on Full Stack Projects | MERN Stack | AI & ML Projects<br>🌱 I’m currently learning Machine Learning and DSA In Python<br>👯 I’m looking to collaborate on any Full Stack Developed Projects<br>🤔 I’m looking for help with Fellow Developers.<br>💬 Ask me about Tech, Javascript, Python, DSA, MERN, AI & ML<br>📫 How to reach me: https://www.linkedin.com/in/theverma/<br>😄 Pronouns: he/him<br>⚡ Fun fact: I'm good at adding humour and interest in learning new tech stack.</p>
+
+### 
+
+<h2 align="left">Connect me : </h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/theverma/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="prakash.kv861@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="+918617741509" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
 
 ###
 
@@ -83,8 +102,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashverma-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashverma-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashverma-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
 </div>
 
 ###
@@ -93,25 +113,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prakashverma-dev.prakashverma-dev&"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/theverma/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="prakash.kv861@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="+918617741509" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/prakashverma-dev/prakashverma-dev/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakashverma-dev/prakashverma-dev/output/pacman-contribution-graph-dark.svg">
