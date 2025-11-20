@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Prakash Kumar Verma</h1>
+<h1 align="center">Hi👋, I'm Prakash Verma</h1>
 
 ###
 
@@ -21,7 +21,7 @@
   - 💬 Ask me about **Tech, Javascript, Python, DSA, MERN, AI & ML**
   - 📫 How to reach me:  **https://www.linkedin.com/in/theverma/**
   - 😄 Pronouns: **he/him**
-  - ⚡ Fun fact: **I'm good at adding humour and interest in learning new tech stack.**
+  - ⚡ Fun fact: **I'm good at mixing humor with a strong interest in learning new tech stacks.**
 
 ### 
 
@@ -30,13 +30,15 @@
 ###
 
 <div align="left">
+    <a href="mailto:prakash.kv861@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+      
   <a href="https://www.linkedin.com/in/theverma/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="prakash.kv861@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
   </a>
-  <a href="+918617741509" target="_blank">
+  <a href="https://wa.me/918617741509" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
@@ -44,7 +46,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with Tools & Technologies </h2>
 
 ###
 
