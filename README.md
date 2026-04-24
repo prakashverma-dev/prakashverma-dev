@@ -18,7 +18,7 @@
   - 🌱 I’m currently learning **Machine Learning and DSA In Python**
   - 👯 I’m looking to collaborate on any **Full Stack Projects**
   - 🤔 I’m looking for help with **Fellow Developers**
-  - 💬 Ask me about **Tech, Javascript, TypeScript, ReactJS Python, DSA, MERN, AI & ML**
+  - 💬 Ask me about **Tech, Javascript, TypeScript, ReactJS, Python, DSA, MERN, AI & ML**
   - 📫 How to reach me:  **https://www.linkedin.com/in/theverma/**
   - 😄 Pronouns: **he/him**
   - ⚡ Fun fact: **I'm good at mixing humor with a strong interest in learning new tech stacks.**
